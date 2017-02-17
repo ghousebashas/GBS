@@ -1,3 +1,4 @@
 first line
 second line for feature1
 add some content with Eclipse
+feature 5 changed
